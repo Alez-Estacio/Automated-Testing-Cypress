@@ -9,20 +9,20 @@ Antes de ejecutar las pruebas, asegúrate de tener instalado Node.js y Cypress e
 ## Instalación
 
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
-
-git clone https://tu-url-del-repositorio.git
+   
+   git clone https://tu-url-del-repositorio.git
 
 
 
 2. Navega al directorio del proyecto:
-
-cd nombre-del-directorio
+   
+   cd nombre-del-directorio
 
 
 
 3. Instala las dependencias necesarias utilizando npm:
-
-npm install
+   
+   npm install
 
 
 
